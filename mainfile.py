@@ -4,7 +4,7 @@ from docx import Document
 import tkinter as tk
 from tkinter import filedialog, messagebox
 import threading
-import speech_recognition as 
+import speech_recognition as sr
 
 
 engine = pyttsx3.init()
